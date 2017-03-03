@@ -1,0 +1,18 @@
+body.day-theme {
+  background-color: #fff;
+  color: #17233d;
+}
+
+body.night-theme {
+  background-color: #17233d;
+  color: #fff;
+}
+
+body.day-theme button {
+  width: 300px;
+}
+
+body.night-theme button {
+  width: 300px;
+  background-color: #fff;
+}
